@@ -1,2 +1,3 @@
-# historia_usuario_devops03
-Repositório para realização da atividade 03 da matéria de manutenção de software e devops
+# RandomCats
+
+Uma página web que obtém uma imagem aleatória de gatinhos de uma API pública, disponível na internet, e a apresenta na página, sempre que a página carrega.
